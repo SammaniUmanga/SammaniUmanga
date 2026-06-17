@@ -2,9 +2,7 @@
 <img width="1376" height="768" alt="Sam github" src="https://github.com/user-attachments/assets/f4a9faf1-86b3-47a5-a583-4550ef2f8c3e" />
 
 
-I'm **Sammani**, a Senior Full Stack Engineer with 6+ years of experience building scalable web applications across telecom, fintech, and e-commerce domains.
-
-I enjoy turning complex business requirements into reliable, maintainable software and working across the entire development lifecycle, from architecture and backend services to user-facing applications and cloud infrastructure.
+I'm **Sammani**, a Senior Full Stack Engineer with 6+ years of experience building scalable web applications across telecom, fintech, and e-commerce domains. I enjoy building reliable and maintainable software across the full stack, from backend systems to user-facing applications and cloud infrastructure.
 
 ### 🚀 About Me
 
